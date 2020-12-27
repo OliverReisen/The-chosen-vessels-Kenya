@@ -4326,6 +4326,9 @@ body.is-preload .gallery.onload-fade-in article .image img {
       width: 50%; }
       .gallery.style1.small article .caption {
         padding: 1rem; } }
+  .gallery.style1.medium article {
+    width: 350px;
+    height: 263px; }
   .gallery.style1.big article {
     width: 33.3333333333%; }
     .gallery.style1.big article .caption {
@@ -4554,6 +4557,9 @@ body.is-preload .gallery.onload-fade-in article .image img {
   @media screen and (max-width: 736px) {
     .gallery.style2.small article .caption {
       padding: 2rem; } }
+  .gallery.style2.medium article {
+    width: 350px;
+    height: 263px; }
   .gallery.style2.big article {
     width: 30rem; }
     .gallery.style2.big article .caption {
